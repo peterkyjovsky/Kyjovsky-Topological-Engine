@@ -41,8 +41,8 @@ To run these simulations locally, you only need Python and two standard scientif
 
 Clone this repository:
 
-git clone [https://github.com/peterkyjovsky/Higgs-Bubble-Analysis.git](https://github.com/peterkyjovsky/Higgs-Bubble-Analysis.git)
-cd Higgs-Bubble-Analysis
+git clone [https://github.com/peterkyjovsky/Kyjovsky-Topological-Engine.git](https://github.com/peterkyjovsky/Kyjovsky-Topological-Engine.git)
+cd Kyjovsky-Topological-Engine
 
 
 Install the required dependencies:
